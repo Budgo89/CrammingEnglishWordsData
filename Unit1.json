@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "englishWord": "Hello",
+    "rusWord": "Привет"
+  },
+  {
+    "id": 2,
+    "englishWord": "World",
+    "rusWord": "Мир"
+  }
+]
